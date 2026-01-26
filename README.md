@@ -1,0 +1,17 @@
+🧠 기술 스택
+
+Python (Pandas, NumPy, Matplotlib/Seaborn 등)
+
+Jupyter Notebook
+
+데이터 시각화 및 통계 기반 분석
+
+
+
+📌 분석 목적
+
+금리 변화와 부동산 시장의 관계 파악
+
+지역별 개발 이슈(용산구) 의 부동산 가격 영향 분석
+
+재개발 데이터 기반의 인사이트 도출
